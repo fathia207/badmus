@@ -1,0 +1,49 @@
+bod{
+     background-color: lightcyan;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 30px; 
+    margin: 0;
+    padd
+}
+h1{
+    color: lightgrey;
+    font-size: 40px;
+    text-transform: capitalize;
+}
+a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    border-radius: 6px
+    display: inline-block;
+    :hover::after
+    
+}
+img{
+    border-radius: 50%;
+    border: 5px solid lightgray;
+    margin: 20px ;
+    object-fit: cover;
+}
+h2{
+    color: darkslategray;
+    font-size: 30px;
+    margin-top: 20px;
+}
+p{
+    color: darkslategray;
+    font-size: 18px;
+    line-height: 1.6;   
+}
+audio{
+    margin-top: 30px;
+}
+
+.body-code{
+     background-color: lightcyan;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 30px; 
+    margin: 0;
+    padd
+}
